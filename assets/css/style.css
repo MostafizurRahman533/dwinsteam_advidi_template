@@ -433,7 +433,6 @@ header ul li a:hover {
 	transition:0.3s;
 	}
   .king {
-	  background:;
 	  min-height:70vh;
 	  align-items:center;
 	  justify-content:center;
@@ -453,7 +452,6 @@ header ul li a:hover {
 	  }
 	.news{
 		min-height:80vh;
-		
 		align-items:center;
 		justify-content:center;
 		padding:20px;
@@ -674,7 +672,6 @@ header ul li a:hover {
 		margin:10px;
 		text-decoration:none !important;
 	}
-	
 	.behind .behind-text h1 {
 	width:80%;
 	padding:50px 10px 20px 200px;
@@ -688,19 +685,16 @@ header ul li a:hover {
 	font-size:1.2rem;
 	line-height:3rem;
 } 
-
 	.behind .behind-text .behind-btn {
 	padding:50px 10px 20px 200px;
 }
   .brand .brand-text {
 	  padding:50px 10px 20px 100px;	  
   }
-
 .brand .brand-video iframe{
 	max-height:265px;
 	max-width:460px;
 }
-
 .affiliate {
 	padding:50px;
 	min-height:70vh;
@@ -1076,7 +1070,39 @@ header ul li a:hover {
   }
 
   
+    .king {
+	  background:;
+	  min-height:60vh;
+	  align-items:center;
+	  justify-content:center;
+	  text-align:center;
+	  
+  }
+  .king p img {
+	  height:50vh; width:40vh;
+  }
+  .king a {
+	  color:white;
+	  font-weight:bold;
+	  background: #EE7601;
+	  padding:10px 15px;
+	  border-radius:5px;
+	  font-size:0.8rem;
+	
+	  }
   
+     .partner-slider h1 {
+	   font-size:2rem;
+	   color:white;
+	   text-align:center;
+	   padding:100px 0px;
+	   font-weight:bold;
+   }
+  
+  
+.slider .slide h3 {font-size:1.3rem; font-weight:bold; padding: 10px; }
+.slider .slide h4 {font-size:1rem; font-weight:bold; padding: 10px; }
+.slider .slide p {padding:10px;  }
   
  }/** mobile menu end **/
  
@@ -1178,13 +1204,13 @@ header ul li a:hover {
   }
 
 	.foremail .input1{
-		margin:20px 5px 20px 5px;
-		padding:10px 150px 10px 10px;
+		margin:10px 5px 10px 5px;
+		padding:10px 80px 10px 10px;
 		
 	}
 	.foremail .input2{
-		margin:20px 5px 20px 5px;
-		padding:10px 150px 10px 10px;
+		margin:10px 5px 10px 5px;
+		padding:10px 80px 10px 10px;
 		
 	}
 
